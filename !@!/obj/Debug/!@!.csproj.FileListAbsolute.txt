@@ -1,0 +1,10 @@
+C:\Users\unzi2\source\repos\!@!\bin\Debug\!@!.exe.config
+C:\Users\unzi2\source\repos\!@!\bin\Debug\!@!.exe
+C:\Users\unzi2\source\repos\!@!\bin\Debug\!@!.pdb
+C:\Users\unzi2\source\repos\!@!\obj\Debug\!@!.csproj.AssemblyReference.cache
+C:\Users\unzi2\source\repos\!@!\obj\Debug\___.Form1.resources
+C:\Users\unzi2\source\repos\!@!\obj\Debug\___.Properties.Resources.resources
+C:\Users\unzi2\source\repos\!@!\obj\Debug\!@!.csproj.GenerateResource.cache
+C:\Users\unzi2\source\repos\!@!\obj\Debug\!@!.csproj.CoreCompileInputs.cache
+C:\Users\unzi2\source\repos\!@!\obj\Debug\!@!.exe
+C:\Users\unzi2\source\repos\!@!\obj\Debug\!@!.pdb
